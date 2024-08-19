@@ -1,0 +1,4 @@
+1. Dimulai dari presentation layer
+2. Masuk ke domain layer
+3. Masuk ke data layer 
+4. kemudian masuk ke core atau service

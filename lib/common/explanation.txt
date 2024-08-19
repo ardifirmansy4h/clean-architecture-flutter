@@ -1,0 +1,1 @@
+Common ini adalah sesuatu hal yang sering digunakan di dalam pembangunan project jadi bisa di re-usable sebanyak apapun.

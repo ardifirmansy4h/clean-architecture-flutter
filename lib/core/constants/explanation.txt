@@ -1,0 +1,1 @@
+Di dalam folder ini digunakan untuk membuat konstanta global seperti API endpoint, key, dll.

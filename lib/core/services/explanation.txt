@@ -1,0 +1,1 @@
+Folder ini menyimpan hal umum seperti Menyimpan service umum untuk API, dll.

@@ -1,0 +1,1 @@
+usecase bertugas untuk menghubungkan application atau state pada repositories domain layer

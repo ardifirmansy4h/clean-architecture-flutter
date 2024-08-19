@@ -1,0 +1,1 @@
+Folder ini adalah inti aplikasi yang digunakan secara umum 
